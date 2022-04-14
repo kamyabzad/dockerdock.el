@@ -1,0 +1,5 @@
+#+TITLE: Dockerdock.el
+
+*in development*
+
+Perform [[https://github.com/Silex/docker.el][docker.el]] commands through completion frameworks
